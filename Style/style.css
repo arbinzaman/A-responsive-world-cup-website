@@ -165,6 +165,17 @@ p.pera {
     padding-left: 20px;
 
 }
+
+img.oicon {
+    margin-bottom: -5px;
+    padding-left: 45px;
+}
+
+span.sisi {
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 12px;
+}
 p {
     font-size: 18px;
 }
