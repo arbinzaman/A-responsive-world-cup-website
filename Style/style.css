@@ -40,7 +40,26 @@ p.watchlive {
     padding: 3%;
     font-size: 25px;
     text-align: center;
-    background-color: #DD0000;
+    background-color: #DD0000;   
+}
+
+
+
+p.watchlive:hover {
+    background-color: aqua;
+    opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-timing-function: ease-in;
+	animation-duration: 1s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 }
 
 img.image {
@@ -49,5 +68,9 @@ img.image {
     width: 781px;
     margin-left: -140px;
 }
+
+
+
+
 
 
