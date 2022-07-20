@@ -3,6 +3,8 @@
 
 body{
     font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 h2{
@@ -100,15 +102,11 @@ p.common {
     margin-right: 40px;
     padding: 20px;
     border-radius: 13px;
-    font-weight: 900px;
     font-weight: 900;
+    
 
 }
 
-a{
-    text-decoration: none;
-    color: black;
-}
 
 a.aa {
     text-decoration: none;
@@ -174,7 +172,7 @@ p {
 /* this footer area  */
 
 
-footer {
+footer, .fooe{
     margin-top: 249px;
     background-color: #161616;
     color: #fff;
@@ -218,5 +216,68 @@ p.foote {
     font-family: "Font Awesome 6 Brands";
     font-weight: 400;
     padding-left: 58px;
+    color: white;
+}
+
+
+
+/* upcomming-match------------------
+-------------------
+-------------------------------------------------------------------
+----------------------------------------------------------------------------- */
+
+.imini {
+    height: 80px;
+    padding-left: 38px;
+}
+
+.match-listed ,.match-listed2 {
+    margin-top: 1px;
+    border-radius: 16px;
+    border: 1px solid;
+    margin-left: 1px;
+    border-color: #E8E8E8;
+    margin-bottom: 233px;
+    padding-top: 50px;
+}
+
+.match-listed2 {
+    margin-top: -182px;
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+
+p.painnai {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+span {
+    padding-left: 11px;
+    font-size: 35px;
+    margin-right: -24px;
+    padding-right: -11px;
+   
+}
+
+
+footer.fooe {
+    margin-top: -40px;
+}
+
+a.ab {
+    text-decoration: none;
+    color: black;
+}
+
+a.mimi{
+    text-decoration: none;
     color: white;
 }
