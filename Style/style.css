@@ -384,10 +384,23 @@ a.mimi{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    padding-left: 0px;
+ 
+ 
     
 
 }
 
+
+p.foote{
+
+  margin-left: 0;
+  margin-right: 0;
+    float: left;
+  color: #fff;
+
+
+}
 
 
 
