@@ -385,6 +385,7 @@ a.mimi{
     margin-right: auto;
     text-align: center;
     padding-left: 0px;
+    padding: 78px;
  
  
     
@@ -397,10 +398,28 @@ p.foote{
   margin-left: 0;
   margin-right: 0;
     float: left;
-  color: #fff;
-
+  color: #fff
 
 }
+
+.icons {
+    padding-bottom: 200px;
+    padding-right: 142px;
+    padding-left: 172px;
+}
+
+
+.fa-brands, .fab {
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+    padding-left: 0px;
+    color: white
+    margin-top: 5px;
+   
+        content: "\f09a";
+        font-size: 29px;
+        padding: 0px;
+    }
 
 
 
