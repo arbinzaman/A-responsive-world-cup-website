@@ -302,7 +302,13 @@ a.mimi{
 
 
 
-    @media only screen and (min-device-width: 400px) and (max-device-width: 500px) { 
+
+
+
+
+
+
+    @media only screen and (min-device-width: 400px) and (max-device-width: 700px) { 
         /* this is main part */
         body{
             margin: 0;
@@ -330,7 +336,7 @@ a.mimi{
             padding: 13px;
             margin-left: 278px;
             margin-right: 257px;
-            margin-top: -20px;
+            margin-top: -138px;
         }
         .fa-chevron-right:before {
             font-size: 11px;
@@ -340,6 +346,8 @@ a.mimi{
             display: block;
             margin-left: auto;
             margin-right: auto;
+            padding: 131px;
+            margin-top: -124px;
         }
         img.image {
 
@@ -404,8 +412,8 @@ p.foote{
 
 .icons {
     padding-bottom: 200px;
-    padding-right: 142px;
-    padding-left: 172px;
+    padding-right: 200px;
+    padding-left: 214px;
 }
 
 
@@ -423,66 +431,20 @@ p.foote{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
           
+
+
+
+    
+/*upcomming site responsive
+-------------------------------
+----------------------------------------------------- ---
+------------------------------------------------------------*/
+
+
+
+
+img.imini {
+    height: auto;
+}
