@@ -306,7 +306,7 @@ a.mimi{
 
 
 
-
+/*  
 
     @media only screen and (min-device-width: 400px) and (max-device-width: 700px) { 
         /* this is main part */
@@ -444,7 +444,7 @@ p.foote{
 
 
 
-
+ 
 img.imini {
     height: auto;
-}
+ } */
